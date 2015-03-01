@@ -16,7 +16,6 @@ header {
 	background-color: #cd5b34;
 	padding: 0;
 	text-align: center;
-	line-height: 140%;
 	margin: 0;
 }
 
@@ -36,14 +35,12 @@ h1 {
 	background-color: #cd5b34;
 	padding: 0.5em 0.5em 0.5em 0.5em;
 	margin: 0;
-	border-radius: 10px;
 	text-align: center;
 	color: white;
 	font-weight: normal;
 	font-size: 2rem;
 	font-style: normal;
 	font-family: 'Roboto Slab', serif;
-	line-height: 1;
 }
 
 nav ul {
@@ -114,6 +111,106 @@ a:hover {
 }
 
 .p2 {
-	margin: 0.5em 0em 0em 0.5em;
+	margin: 0.5em 0em 1em 0.5em;
 
+}
+
+h2 {
+	text-align: center;
+	color: white;
+	background-color: #dc8252;
+	padding: 1em 0em 1em 0em;
+	margin: 0;
+	font-size: 1.2rem;
+}
+
+.corn {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+.small-img {
+	display: block;
+	width: 50%;
+	float: left;
+}
+
+.small-img2 {
+	display: block;
+	width: 50%;
+	float: right;
+}
+
+figcaption {
+	font-size: 0.7rem;
+	font-style: italic;
+	text-align: center;
+	color: white;
+	background-color: #dc8252;
+	padding: 0.2em 0em 0.5em 0em;
+	margin: 0;
+}
+
+.rice {
+	text-align: center;
+	font-size: 0.7rem;
+	font-style: italic;
+	color: white;
+	background-color: #dc8252;
+	padding: 0.2em 0em 0em 0em;
+	margin: 0;
+}
+
+.oats {
+	text-align: center;
+	font-size: 0.7rem;
+	font-style: italic;
+	color: white;
+	background-color: #dc8252;
+	padding: 0.2em 0em 0.5em 0em;
+	margin: 0;
+}
+
+figure {
+	margin: 0;
+	padding: 0;
+}
+
+.famous {
+	font-size: 1.2rem;
+	background-color: white;
+	color: black;
+	padding: 1em 0em 1em 0em;
+}
+
+.legume-img {
+	width: 27%;
+	margin: 0.5em 0em 0.5em 0.5em;
+}
+
+.lentils {
+	width: 27%;
+	margin: 0.5em 0em 1em 0.5em;
+}
+
+.p3 {
+	font-size: 0.7rem;
+	float: right;
+	font-style: italic;
+	margin: 0;
+}
+
+footer {
+	background-color: #cd5b34;
+	padding: 0.2em 0.5em 0.5em 0.5em;
+	margin: 0;
+	text-align: center;
+	color: #f59b6c;
+	font-weight: normal;
+	font-size: 0.6rem;
+	font-style: normal;
+	font-family: 'Roboto Slab', serif;
+	line-height: 1;
 }
